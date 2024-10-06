@@ -1,0 +1,21 @@
+{
+  "paciente": {
+    "nombre": "Juan Pérez",
+    "identificacion": "123456789",
+    "fechaNacimiento": "1980-01-01",
+    "alergias": [
+      "Penicilina",
+      "Frutos secos"
+    ],
+    "historialVisitas": [
+      {
+        "fecha": "2023-11-15",
+        "motivo": "Dolor de cabeza"
+      },
+      {
+        "fecha": "2024-01-20",
+        "motivo": "Consulta de rutina"
+      }
+    ]
+  }
+}
